@@ -14,7 +14,7 @@ Este proyecto es una aplicación de conversión de monedas en tiempo real, desar
 ## 🔧 Instalación
 1️⃣ Clona el repositorio o descarga los archivos.  
 ```bash
- git clone https://github.com/tu-repo/conversor-monedas
+ git clone https://github.com/israelmonjes/Conversor-de-Monedas
 ```
 2️⃣ Instala las dependencias necesarias.  
 ```bash
